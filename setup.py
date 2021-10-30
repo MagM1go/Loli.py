@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text(encoding="utf8")
 
 setup(
 	name="Loli-wrapper",
-	version="1.0.3",
+	version="1.0.4",
 	author="MagMigo",
 	description="Simple wrapper for loli api.",
 	long_description=README,
