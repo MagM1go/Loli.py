@@ -1,6 +1,6 @@
 <h1 align="center">Loli api wrapper</h1>
 
-#### pip install loli.py
+#### pip install Loli-wrapper
 
 
 
